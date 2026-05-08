@@ -1,10 +1,13 @@
-ESP32 Learning & Experiment Kit
+🚀 ESP32 Lern- & Experimentierset
 <div align="center">
+⚡ Programmieren • Lernen • Experimentieren
+Das professionelle Starter-Kit für ESP32, IoT & Elektronik-Projekte
 
-Learn • Build • Experiment
+Perfekt für Einsteiger, Maker, Schüler, Studenten und Technikbegeisterte.
 
-A complete ESP32 starter and maker kit for beginners, students, hobbyists and makers.
-Perfect for learning electronics, IoT, sensors, displays and automation projects.
+<br>
+
+
 
 
 
@@ -12,154 +15,155 @@ Perfect for learning electronics, IoT, sensors, displays and automation projects
 
 
 </div>
-🚀 What is this Kit?
+📦 Was ist das?
 
-This ESP32 Learning & Experiment Kit was designed to make learning microcontrollers simple, practical and fun.
+Dieses ESP32 Lern- & Experimentierset wurde entwickelt, um den Einstieg in die Welt von:
 
-Instead of only reading tutorials, you directly build real projects:
+Mikrocontrollern
+Smart Home
+Sensorik
+Automatisierung
+IoT (Internet of Things)
+Elektronik
+Webservern
 
-WiFi applications
-Sensor monitoring
-OLED displays
-Smart Home basics
-Temperature & humidity systems
-Web interfaces
-LED control
-Automation projects
+so einfach wie möglich zu machen.
 
-The kit is beginner-friendly while still powerful enough for advanced maker projects.
+Anstatt nur Theorie zu lernen, baust du direkt echte Projekte mit moderner Hardware.
 
-📦 What's Included
+✨ Ideal für
 
-✅ ESP32 Development Board
-✅ OLED Display
-✅ DHT22 Temperature & Humidity Sensor
-✅ Breadboard
-✅ Jumper Wires
-✅ Example Projects
-✅ Ready-to-use Example Code
-✅ Documentation & Wiring Guides
+✅ Anfänger ohne Vorkenntnisse
+✅ Maker & Hobbybastler
+✅ Schulen & Workshops
+✅ Smart-Home-Projekte
+✅ ESP32 & Arduino Lernen
+✅ Technik- & Elektronikfans
+✅ DIY- und Automatisierungsprojekte
 
-🛠 Example Projects
-Project	Difficulty
-OLED Hello World	Easy
-Temperature Monitor	Easy
-WiFi Sensor Dashboard	Medium
-Smart Home Relay Control	Medium
-Webserver with Live Sensor Data	Medium
-IoT Automation System	Advanced
-🌐 Why ESP32?
+🔧 Lieferumfang
+Enthalten	Beschreibung
+ESP32 Entwicklungsboard	WiFi & Bluetooth Mikrocontroller
+OLED Display	Für Menüs, Sensorwerte & Anzeigen
+DHT22 Sensor	Temperatur- & Luftfeuchtigkeitssensor
+Breadboard	Löten nicht notwendig
+Jumperkabel	Schnelles Verbinden der Komponenten
+Beispielcode	Sofort startklar
+Projektanleitungen	Einfach erklärt
+🚀 Beispielprojekte
+Projekt	Schwierigkeit
+OLED „Hello World“	🟢 Einfach
+Temperaturanzeige	🟢 Einfach
+WLAN-Webserver	🟡 Mittel
+Smart-Home Steuerung	🟡 Mittel
+Sensor-Dashboard	🟠 Fortgeschritten
+IoT Automatisierung	🔴 Anspruchsvoll
+🌐 Warum ESP32?
 
-The ESP32 is one of the most powerful and popular microcontrollers for makers and IoT development.
+Der ESP32 gehört zu den beliebtesten Mikrocontrollern weltweit.
 
-Features:
-Built-in WiFi
-Bluetooth
-Fast Dual-Core CPU
-Low Power Consumption
-Huge Community
-Arduino Compatible
+Vorteile:
+📶 Integriertes WLAN
+📡 Bluetooth
+⚡ Sehr leistungsstark
+🔋 Energieeffizient
+🛠 Große Community
+💻 Arduino-kompatibel
+🔧 Perfekt für DIY-Projekte
+📚 Perfekt zum Lernen
 
-Perfect for:
+Das Set ist speziell darauf ausgelegt, den Einstieg möglichst einfach zu machen.
 
-Home Automation
-IoT
-Sensors
-Robotics
-DIY Electronics
-CNC & Workshop Automation
-📚 Beginner Friendly
+Du benötigst:
 
-This kit was created especially for beginners.
+❌ Keine Lötkenntnisse
+❌ Keine Profi-Elektronikkenntnisse
+❌ Keine Vorerfahrung
 
-You do not need:
+Einfach anschließen, Code hochladen und starten 🚀
 
-previous programming experience
-soldering experience
-professional electronics knowledge
+🛠 Software Installation
+1️⃣ Arduino IDE herunterladen
 
-The included examples help you start quickly.
+👉 https://www.arduino.cc/en/software
 
-🔧 Software Setup
-Install Arduino IDE
+2️⃣ ESP32 Boardverwalter hinzufügen
 
-Download the Arduino IDE:
+In der Arduino IDE öffnen:
 
-➡ https://www.arduino.cc/en/software
+Datei → Voreinstellungen
 
-Add ESP32 Board Support
-
-Open:
-
-File → Preferences
-
-Add this Board Manager URL:
+Dann folgende URL bei
+„Zusätzliche Boardverwalter-URLs“ einfügen:
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+3️⃣ ESP32 installieren
 
-Then open:
+Danach öffnen:
 
-Tools → Board → Boards Manager
+Werkzeuge → Board → Boardverwalter
 
-Search for:
+Nach folgendem Begriff suchen:
 
 ESP32
 
-Install:
+Dann installieren:
 
 ESP32 by Espressif Systems
-▶ Getting Started
-Connect the ESP32 via USB
-Install drivers if needed
-Select the correct COM Port
-Upload your first example
-Start experimenting 🚀
-🛒 Buy the Kit
-Shopify Store
+⚡ Erste Schritte
 
-👉 https://YOUR-SHOPIFY-STORE.com
+1️⃣ ESP32 per USB verbinden
+2️⃣ COM-Port auswählen
+3️⃣ Beispiel öffnen
+4️⃣ Hochladen klicken
+5️⃣ Experimentieren & Lernen 🚀
 
-eBay
+📸 Produktbilder
+Hier können eigene Bilder eingefügt werden
+![ESP32 Kit](images/esp32-kit.jpg)
+![Projekt Beispiel](images/project-example.jpg)
+![OLED Demo](images/oled-demo.jpg)
+🛒 Jetzt bestellen
+<div align="center">
+🔗 Shopify Shop
+👉 https://DEIN-SHOPIFY-SHOP.de
+<br>
+🔗 eBay Shop
+👉 https://www.ebay.de/usr/DEIN-EBAY-NAME
+</div>
+💡 Mögliche Projekte
 
-👉 https://www.ebay.de/usr/YOUR-EBAY-NAME
+Mit diesem Set kannst du unter anderem bauen:
 
-📸 Preview
-
-You can add your own product images here:
-
-![Kit Image](images/kit.jpg)
-![Project Example](images/project1.jpg)
-💡 Perfect For
-Beginners
-Students
-Schools
-Makerspaces
-DIY Enthusiasts
-Smart Home Projects
-Workshops
-Gifts for Tech Enthusiasts
+Smart-Home Systeme
+Wetterstationen
+WLAN Sensoren
+Automatische Lüftersteuerungen
+Temperaturüberwachung
+OLED Menüs
+Webserver
+Relaissteuerungen
+IoT Dashboards
+CNC-/Werkstatt-Helfer
 🤝 Support
 
-If you have questions or problems:
+Bei Fragen oder Problemen:
 
-Open an Issue
-Contact via eBay
-Contact via Shopify
-⭐ Support the Project
+GitHub Issue erstellen
+Kontakt über eBay
+Kontakt über Shopify
+⭐ Unterstütze das Projekt
 
-If you like this project:
+Wenn dir das Projekt gefällt:
 
-✅ Star the repository
-✅ Share it with others
-✅ Build cool projects
-✅ Support the shop
-
-📄 License
-
-Educational and demonstration purposes.
-Please check included component licenses where applicable.
+✅ Repository mit ⭐ markieren
+✅ Projekte teilen
+✅ Eigene Builds posten
+✅ Shop unterstützen
 
 <div align="center">
-Start Building Today 🚀
+🚀 Viel Spaß beim Lernen & Entwickeln!
+Programmieren. Verstehen. Selber bauen.
+<br>
 
 </div>
